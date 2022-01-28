@@ -1,2 +1,2 @@
-# adventofcode-2020
-Solutions for Advent of Code 2020 event
+# Advent of Code
+Solution for Advent of Code events, all the improvements in code are welcome, Thanks!
